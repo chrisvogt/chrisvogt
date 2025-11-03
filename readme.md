@@ -17,7 +17,7 @@ At GoDaddy, I help design and build:
 ---
 
 ### ⚙️ Tech I Use & Love
-Node.js · React · Next.js · TypeScript · GraphQL · Tailwind CSS · AWS · GitHub Actions · Python (for data analysis)
+Node.js · React · Next.js · JavaScript · TypeScript · GraphQL · AWS · GitHub Actions
 
 ---
 
