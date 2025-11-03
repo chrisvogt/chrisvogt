@@ -30,11 +30,5 @@ Latest side project: [**TeacherSalary.info**](https://teachersalary.info) — vi
 
 ---
 
-### 🪄 Connect
-[![Twitter Badge](https://img.shields.io/badge/-@c1v0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/c1v0)
-[![Website Badge](https://img.shields.io/badge/-chrisvogt.me-111111?style=flat-square&logo=react&logoColor=white)](https://www.chrisvogt.me)
-
----
-
 ### 📊 GitHub Stats
 ![Chris’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisvogt&show_icons=true&theme=transparent)
