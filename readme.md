@@ -28,7 +28,3 @@ where I also share piano recordings and travel photo stories.
 Creator of [**gatsby-theme-chronogrove**](https://github.com/chrisvogt/gatsby-theme-chronogrove) — a free, open-source digital-garden theme.  
 Latest side project: [**TeacherSalary.info**](https://teachersalary.info) — visualizing education pay data.
 
----
-
-### 📊 GitHub Stats
-![Chris’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisvogt&show_icons=true&theme=transparent)
