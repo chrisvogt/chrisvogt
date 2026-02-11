@@ -1,5 +1,12 @@
-### 👋 Hi, I'm [Chris Vogt](https://www.chrisvogt.me)
+# 👋 Hi, I’m [Chris Vogt](https://www.chrisvogt.me)
 
-Software engineer at [GoDaddy](https://github.com/godaddy) in San Francisco. I've been building and rebuilding my personal site for about 12 years now — it started as a small PHP site and I've rewritten it... more times than I'll admit. Right now it's a GatsbyJS + React app backed by Firebase that pulls in what I'm listening to (Spotify), reading (Goodreads), playing (Steam), and working on (GitHub). It's part blog, part dashboard, part playground.
+**Principal Software Engineer @ [GoDaddy](https://www.godaddy.com)** · San Francisco, CA  
+Building intelligent, data-driven customer experiences with Node.js, React, and AI-powered systems.
 
-I play piano — mostly jazz standards and covers. I'm not great, but I get lost in it — and I post recordings [on my site](https://www.chrisvogt.me/music/) sometimes. I aspire to record and share that more often. When I'm not at work or at the piano, I'm usually out somewhere and taking a bunch of photos, which I share most often on Instagram Stories.
+---
+
+### 🌱 Beyond Work
+I share photo galleries, blog posts and recordings of me playing piano on my blog and website at [**www.chrisvogt.me**](https://www.chrisvogt.me). 
+
+Creator of [**gatsby-theme-chronogrove**](https://github.com/chrisvogt/gatsby-theme-chronogrove) — a free, open-source digital-garden theme.  
+Latest side project: [**TeacherSalary.info**](https://teachersalary.info) — visualizing education pay data.
