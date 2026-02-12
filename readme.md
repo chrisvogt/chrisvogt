@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [Chris Vogt](https://www.chrisvogt.me)
-**Software Engineer V @ [GoDaddy](https://www.godaddy.com)** · San Francisco (Remote), CA  
+**Software Engineer V @ [GoDaddy]([https://www.godaddy.com](https://github.com/godaddy))** · San Francisco, CA  
 
 I share photo galleries, blog posts and recordings of me playing piano on my blog and website at [**www.chrisvogt.me**](https://www.chrisvogt.me). 
 
